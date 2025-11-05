@@ -5,5 +5,12 @@
       "labels": ["TOPSTORIES"],
       "customfield_13563": "Support"
     }
+  },
+    "Another one" : {
+    "id": "rule2",
+    "fields": {
+      "labels": ["TOPSTORIES"],
+      "customfield_13563": "Support"
+    }
   }
 }
