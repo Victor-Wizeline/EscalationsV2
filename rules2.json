@@ -16,5 +16,5 @@
       "customfield_13563": "Support"
     },
     "data": "{{ \"fields\": { \"labels\": [\"DSG-Raised\", \"DevPortal\"], \"customfield_13563\": \"Support\" } }}"
-  },
+  }
 ]
