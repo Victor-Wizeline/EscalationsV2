@@ -1,10 +1,11 @@
-{
-  "Top Stories API Escalation Process" : {
+[
+  {
+    "type:": "Top Stories API Escalation Process".
     "id": "rule1",
     "fields": {
       "labels": ["TOPSTORIES"],
       "customfield_13563": "Support"
     }
   }
-}
+]
 
