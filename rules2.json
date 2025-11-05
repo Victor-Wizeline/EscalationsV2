@@ -8,10 +8,10 @@
     }
   },
   {
-    "type": "B tt",
+    "type": "Developer Portal Escalation",
     "id": "rule2",
     "fields": {
-      "labels": ["TOPSTORIES"],
+      "labels": ["DSG-Raised", "DevPortal"],
       "customfield_13563": "Support"
     }
   }
