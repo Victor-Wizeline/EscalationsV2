@@ -6,7 +6,7 @@
       "labels": ["TOPSTORIES"],
       "customfield_13563": "Support"
     },
-    "data": "{ \"fields\": { \"labels\": [\"TOPSTORIES\"], \"B2B Work Type\": {\"value\": \"Support\"}, \"B2B Program\": {\"value\": \"Newswires\"}, \"assignee\": { \"id\": \"ari:cloud:identity::user/70121:db1ec288-81c7-4eb0-aa08-71ebdffd11b5\" } } }"
+    "data": "{ \"fields\": { \"labels\": [\"TOPSTORIES\"], \"B2B Work Type\": {\"value\": \"Support\"}, \"B2B Program\": {\"value\": \"Newswires\"}, \"assignee\": { \"id\": \"70121:db1ec288-81c7-4eb0-aa08-71ebdffd11b5\" } } }"
   },
   {
     "type": "Developer Portal Escalation",
