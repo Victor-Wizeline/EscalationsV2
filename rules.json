@@ -1,21 +1,9 @@
 {
-  "rules" : [
-      {
-        "type:": "Top Stories API Escalation Process",
-        "id": "rule1",
-        "fields": {
-          "labels": ["TOPSTORIES"],
-          "customfield_13563": "Support"
-        }
-      },
-      {
-        "type:": "B tt",
-        "id": "rule2",
-        "fields": {
-          "labels": ["TOPSTORIES"],
-          "customfield_13563": "Support"
-        }
-      }
-    ]
+  "Top Stories API Escalation Process" : {
+    "id": "rule1",
+    "fields": {
+      "labels": ["TOPSTORIES"],
+      "customfield_13563": "Support"
+    }
+  }
 }
-
