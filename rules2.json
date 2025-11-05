@@ -1,6 +1,6 @@
 [
   {
-    "type:": "Top Stories API Escalation Process",
+    "type": "Top Stories API Escalation Process",
     "id": "rule1",
     "fields": {
       "labels": ["TOPSTORIES"],
@@ -8,7 +8,7 @@
     }
   },
   {
-    "type:": "B tt",
+    "type": "B tt",
     "id": "rule2",
     "fields": {
       "labels": ["TOPSTORIES"],
