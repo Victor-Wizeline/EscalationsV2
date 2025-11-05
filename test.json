@@ -1,7 +1,7 @@
 {
   "escalationType": "Top Stories API Escalation Process",
-  "fields": [
+  "fields": {
     "labels": ["TOPSTORIES"],
     "B2B Work Type": "Support"
-  ]
+  }
 }
