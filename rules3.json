@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Top Stories API Escalation Process",
+    "id": "rule1",
+    "fields": {
+      "labels": ["TOPSTORIES"],
+      "customfield_13563": "Support"
+    },
+    "data": "{{ \"fields\": { \"labels\": [\"TOPSTORIES\"], \"customfield_13563\": \"Support\" } }}"
+  },
+  {
+    "type": "Developer Portal Escalation",
+    "id": "rule2",
+    "fields": {
+      "labels": ["DSG-Raised", "DevPortal"],
+      "customfield_13563": "Support"
+    },
+    "data": "{{ \"fields\": { \"labels\": [\"DSG-Raised\", \"DevPortal\"], \"customfield_13563\": \"Support\" } }}"
+  }
+]
