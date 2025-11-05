@@ -1,5 +1,5 @@
 {
-  "rules: [
+  "rules" : [
       {
         "type:": "Top Stories API Escalation Process",
         "id": "rule1",
