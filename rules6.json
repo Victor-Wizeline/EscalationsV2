@@ -6,7 +6,7 @@
       "labels": ["TOPSTORIES"],
       "customfield_13563": "Support"
     },
-    "data": "{ \"fields\": { \"labels\": [\"TOPSTORIES\"], \"description\": \"Support\" } }"
+    "data": "{ \"fields\": { \"labels\": [\"TOPSTORIES\"], \"customfield_13563\": {\"name\": \"Support\"} } }"
   },
   {
     "type": "Developer Portal Escalation",
@@ -15,6 +15,6 @@
       "labels": ["DSG-Raised", "DevPortal"],
       "customfield_13563": "Support"
     },
-    "data": "{ \"fields\": { \"labels\": [\"DSG-Raised\", \"DevPortal\"], \"description\": \"Support\" } }"
+    "data": "{ \"fields\": { \"labels\": [\"DSG-Raised\", \"DevPortal\"], \"customfield_13563\": {\"name\": \"Support\"} } }"
   }
 ]
