@@ -1,127 +1,158 @@
 [
   {
-    "type": "Top Stories API Escalation Process",
     "id": 2,
+    "workRequestType": "Escalation",
+    "type": "Top Stories API Escalation Process",
     "data": "{\"fields\":{\"labels\":[\"TOPSTORIES\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"70121:db1ec288-81c7-4eb0-aa08-71ebdffd11b5\"}}}"
   },
   {
-    "type": "Developer Portal Escalation",
     "id": 3,
+    "workRequestType": "Escalation",
+    "type": "Developer Portal Escalation",
     "data": "{\"fields\":{\"labels\":[\"DSG-Raised\",\"DevPortal\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"}}}"
   },
   {
-    "type": "DJ Customer Support Site (DJCSS) escalations",
     "id": 4,
+    "workRequestType": "Escalation",
+    "type": "DJ Customer Support Site (DJCSS) escalations",
     "data": "{\"fields\":{\"labels\":[\"DJCSSProdSupport\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"}}}"
   },
   {
-    "type": "DJ Custom Solutions (DJCS) escalations",
     "id": 5,
+    "workRequestType": "Escalation",
+    "type": "DJ Custom Solutions (DJCS) escalations",
     "data": "{\"fields\":{\"labels\":[\"djcs_maintenance\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"},\"assignee\":{\"id\":\"557058:90ef0980-39f9-4fe9-b95d-843833f4db29\"}}}"
   },
   {
-    "type": "E-mail Delivery (EDS) & SA Prod escalations",
     "id": 6,
+    "workRequestType": "Escalation",
+    "type": "E-mail Delivery (EDS) & SA Prod escalations",
     "data": "{\"fields\":{\"labels\":[\"EDS\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"},\"assignee\":{\"id\":\"70121:c3375e98-a2a8-4d54-b63e-ecae138a1e1f\"}}}"
   },
   {
-    "type": "Product Testing Group (PTG) escalations",
     "id": 7,
+    "workRequestType": "Escalation",
+    "type": "Product Testing Group (PTG) escalations",
     "data": "{\"fields\":{\"labels\":[\"PTGBUGS\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"},\"assignee\":{\"id\":\"70121:e1230148-24f1-4f71-b929-9a301ae293ae\"}}}"
   },
   {
-    "type": "Factiva Snapshots & Streams Escalations",
     "id": 8,
+    "workRequestType": "Escalation",
+    "type": "Factiva Snapshots & Streams Escalations",
     "data": "{\"fields\":{\"labels\":[\"dna-prod-issue\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"}}}"
   },
   {
-    "type": "Newswires GenAI Feed (Article usage API)",
     "id": 9,
+    "workRequestType": "Escalation",
+    "type": "Newswires GenAI Feed (Article usage API)",
     "data": "{\"fields\":{\"labels\":[\"newswires-article-usage\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"}}}"
   },
   {
-    "type": "Factiva Sentiment Signals Escalation",
     "id": 10,
+    "workRequestType": "Escalation",
+    "type": "Factiva Sentiment Signals Escalation",
     "data": "{\"fields\":{\"labels\":[\"fss-api\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"}}}"
   },
   {
-    "type": "Newswires Feed for GenAI",
     "id": 11,
+    "workRequestType": "Escalation",
+    "type": "Newswires Feed for GenAI",
     "data": "{\"fields\":{\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"6298fe1ee540870069677afe\"}}}"
   },
   {
-    "type": "Newsplus",
     "id": 12,
+    "workRequestType": "Escalation",
+    "type": "Newsplus",
     "data": "{\"fields\":{\"labels\":[\"Newsplus\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"70121:e1230148-24f1-4f71-b929-9a301ae293ae\"}}}"
   },
   {
-    "type": "Calendar Live API Escalation Process",
     "id": 13,
+    "workRequestType": "Escalation",
+    "type": "Calendar Live API Escalation Process",
     "data": "{\"fields\":{\"labels\":[\"CALENDAR\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"6256e19362802600683f8ac4\"}}}"
   },
   {
-    "type": "NextGen",
     "id": 14,
+    "workRequestType": "Escalation",
+    "type": "NextGen",
     "data": "{\"fields\":{\"labels\":[\"PTGBUGS\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"}}}"
   },
   {
-    "type": "Trade Compliance Feed (AKA: Dual Use Good)",
     "id": 15,
+    "workRequestType": "Escalation",
+    "type": "Trade Compliance Feed (AKA: Dual Use Good)",
     "data": "{\"fields\":{\"labels\":[\"PTGBUGS\",\"DUGood\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"629fa4425b9785006fd61a08\"}}}"
   },
   {
-    "type": "Due Diligence Portal (Notification/Delivery Issue)",
     "id": 16,
+    "workRequestType": "Escalation",
+    "type": "Due Diligence Portal (Notification/Delivery Issue)",
     "data": "{\"fields\":{\"labels\":[\"DDPortal\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"5a3414e7e8dc74376d64b17f\"}}}"
   },
   {
-    "type": "Financial Crime (RiskCenter)",
     "id": 17,
+    "workRequestType": "Escalation",
+    "type": "Financial Crime (RiskCenter)",
     "data": "{\"fields\":{\"labels\":[\"PTGBUGS\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"70121:e1230148-24f1-4f71-b929-9a301ae293ae\"}}}"
   },
   {
-    "type": "Due Diligence API",
     "id": 18,
+    "workRequestType": "Escalation",
+    "type": "Due Diligence API",
     "data": "{\"fields\":{\"labels\":[\"DDR_API\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"60a62626b050a700694d7f12\"}}}"
   },
   {
-    "type": "Screening & Monitoring API",
     "id": 19,
+    "workRequestType": "Escalation",
+    "type": "Screening & Monitoring API",
     "data": "{\"fields\":{\"labels\":[\"BatchAPI\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"70121:ce416b5e-cc08-4a12-a9de-83513402ce54\"}}}"
   },
   {
-    "type": "R&C API v2",
     "id": 20,
+    "workRequestType": "Escalation",
+    "type": "R&C API v2",
     "data": "{\"fields\":{\"labels\":[\"R&C_API\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"70121:ce416b5e-cc08-4a12-a9de-83513402ce54\"}}}"
   },
   {
-    "type": "R&C API v2 & SnM API (Hosting Issue)",
     "id": 21,
+    "workRequestType": "Escalation",
+    "type": "R&C API v2 & SnM API (Hosting Issue)",
     "data": "{\"fields\":{\"labels\":[\"EUHOSTED\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"},\"assignee\":{\"id\":\"62b1c97eb065974c3e23e1bc\"}}}"
   },
   {
-    "type": "Dow Jones Risk Journal Escalation",
     "id": 22,
+    "workRequestType": "Escalation",
+    "type": "Dow Jones Risk Journal Escalation",
     "data": "{\"fields\":{\"labels\":[\"RJ_Letter_Alert\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Risk and Compliance\"}}}"
   },
   {
-    "type": "Newswire Realtime API (RT Search API) - Escalation Process",
     "id": 23,
+    "workRequestType": "Escalation",
+    "type": "Newswire Realtime API (RT Search API) - Escalation Process",
     "data": "{\"fields\":{\"labels\":[\"REALTIME\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"557058:a1587109-e424-449d-9a6f-4e44378ec934\"}}}"
   },
   {
-    "type": "Dragonfly Escalation",
     "id": 24,
+    "workRequestType": "Escalation",
+    "type": "Dragonfly Escalation",
     "data": "{\"fields\":{\"labels\":[\"DragonFly\"],\"assignee\":{\"id\":\"712020:19133574-ef07-481d-b7d6-d5dc14277183\"}}}"
   },
   {
-    "type": "Oxford Analytica Escalation",
     "id": 25,
+    "workRequestType": "Escalation",
+    "type": "Oxford Analytica Escalation",
     "data": "{\"fields\":{\"labels\":[\"Oxford-Analytica\"],\"assignee\":{\"id\":\"712020:19133574-ef07-481d-b7d6-d5dc14277183\"}}}"
   },
   {
-    "type": "Op 1",
     "id": 26,
+    "workRequestType": "Platform Engineering",
+    "type": "Op 1",
     "data": "{\"fields\":{\"labels\":[\"Platform_Request\"],\"assignee\":{\"id\":\"70121:c6c51cc4-ada2-4a65-8a5f-207a8337c0aa\"}}}"
+  },
+  {
+    "id": 27,
+    "workRequestType": "Platform Engineering",
+    "type": "Op 2",
+    "data": "{\"fields\":{\"labels\":[\"Another_Request\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"},\"assignee\":{\"id\":\"70121:8bf8dd46-6d04-4054-b7d6-ac1a3b4e6a04\"}}}"
   }
 ]
