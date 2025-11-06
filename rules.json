@@ -122,6 +122,6 @@
   {
     "type": "Op 1",
     "id": "rule25",
-    "data": "{\"fields\":{\"labels\":[\"Platform Request\"],\"assignee\":{\"id\":\"70121:c6c51cc4-ada2-4a65-8a5f-207a8337c0aa\"}}}"
+    "data": "{\"fields\":{\"labels\":[\"Platform_Request\"],\"assignee\":{\"id\":\"70121:c6c51cc4-ada2-4a65-8a5f-207a8337c0aa\"}}}"
   }
 ]
