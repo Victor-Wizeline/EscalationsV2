@@ -118,5 +118,10 @@
     "type": "Oxford Analytica Escalation",
     "id": "rule24",
     "data": "{\"fields\":{\"labels\":[\"Oxford-Analytica\"],\"assignee\":{\"id\":\"712020:19133574-ef07-481d-b7d6-d5dc14277183\"}}}"
+  },
+  {
+    "type": "Op 1",
+    "id": "rule25",
+    "data": "{\"fields\":{\"labels\":[\"Platform Request\"],\"assignee\":{\"id\":\"70121:c6c51cc4-ada2-4a65-8a5f-207a8337c0aa\"}}}"
   }
 ]
