@@ -160,5 +160,11 @@
     "workRequestType": "Task for Data Analytics",
     "type": "Dev OP 1",
     "data": "{\"fields\":{\"labels\":[\"task_analytics_test\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"712020:d5b6a83b-b691-4a58-b724-783417794e9e\"}}}"
+  },
+  {
+    "id": 29,
+    "workRequestType": "Task for Data Analytics",
+    "type": "Dev OP 2",
+    "data": "{\"fields\":{\"labels\":[\"some_testing\"],\"B2B Work Type\":{\"value\":\"Product\"},\"B2B Program\":{\"value\":\"OPIS\"},\"assignee\":{\"id\":\"70121:8bf8dd46-6d04-4054-b7d6-ac1a3b4e6a04\"}}}"
   }
 ]
