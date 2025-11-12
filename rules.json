@@ -145,14 +145,20 @@
   },
   {
     "id": 26,
-    "workRequestType": "Platform Engineering",
+    "workRequestType": "Platform support",
     "type": "Op 1",
     "data": "{\"fields\":{\"labels\":[\"Platform_Request\"],\"assignee\":{\"id\":\"70121:c6c51cc4-ada2-4a65-8a5f-207a8337c0aa\"}}}"
   },
   {
     "id": 27,
-    "workRequestType": "Platform Engineering",
+    "workRequestType": "Platform support",
     "type": "Op 2",
     "data": "{\"fields\":{\"labels\":[\"Another_Request\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Factiva\"},\"assignee\":{\"id\":\"70121:8bf8dd46-6d04-4054-b7d6-ac1a3b4e6a04\"}}}"
+  },
+  {
+    "id": 28,
+    "workRequestType": "Task for Data Analytics",
+    "type": "Dev OP 1",
+    "data": "{\"fields\":{\"labels\":[\"task_analytics_test\"],\"B2B Work Type\":{\"value\":\"Support\"},\"B2B Program\":{\"value\":\"Newswires\"},\"assignee\":{\"id\":\"712020:d5b6a83b-b691-4a58-b724-783417794e9e\"}}}"
   }
 ]
